@@ -1,5 +1,5 @@
 # nasa-apod
-NASA - A Picture a Day Download Shell Script (Makes cool wallpapers)
+NASA - A Picture of the Day Download Shell Script (Makes cool wallpapers)
 
 Modify bgDir in nasa-apod.sh to be a directory on your machine.
 

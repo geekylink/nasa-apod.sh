@@ -10,4 +10,4 @@ Add this to cron, then make your wallpaper auto-change every X minutes, awesome 
 Depenencies: wget
 
 **Example Output**
-![Example Output](https://raw.githubusercontent.com/geekylink/nasa-apod.sh/main/nasa-20230122.png)
+![Example Output](https://raw.githubusercontent.com/geekylink/nasa-apod.sh/main/nasa-20230122.jpg)

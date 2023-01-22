@@ -1,5 +1,5 @@
 #!/bin/bash
-bgDir="/media/Pictures/backgrounds/"
+bgDir="/mnt/d/Pictures/backgrounds/"
 dateStr=$(date "+%Y%m%d")
 
 download_pic () {
